@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\S-Squared Enterprises Personal System.props" />
+</Project>
